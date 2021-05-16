@@ -12,7 +12,7 @@ sklearn 전처리 과정을 사용해 0과 1사이로 스케일링 해서 데이
 trainX : 입력값, trainY: 입력된 값들이 실제 출력되기를 바라는 값, epochs: 학습시키는 크기, batch_size: 학습시킬때 묶음. 샘플의 수
 이 훈련에서는 32 묶음 씩 100번을 학습시킴
 
-결과 : 
+결과 : <br>
 <img src="./0516result.PNG">
 
 출처: https://www.kaggle.com/ieshaan/delhi-climate-time-series-lstm
